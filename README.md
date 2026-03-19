@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Text Summarizer
 
 A minimal full-stack app that accepts unstructured text and returns a structured summary using an LLM API.
@@ -254,3 +255,7 @@ See the **Deployment** section below for Railway, Render, and Vercel instruction
 - **SDK quality:** The official `openai` npm package handles retries, streaming, and error types cleanly.
 
 The code is easy to swap for another provider (Anthropic Claude, Mistral, etc.) by changing only `llm.js`.
+=======
+# assignment-summarizer
+NxtWave Assignment
+>>>>>>> c1ad01a725ad5795434803f4bb765e13758d505f
